@@ -1,2 +1,2 @@
 # Hello-GitHub-World
-Fast Repository
+First Repository
